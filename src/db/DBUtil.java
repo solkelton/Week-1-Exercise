@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class DBUtil {
 
-    private static final String USERNAME = "kelton";
-    private static final String PASSWORD = "Dfw36!jbp";
+    private static final String USERNAME = "";
+    private static final String PASSWORD = "";
     private static final String H_CONN_STRING =
             "jdbc:hsqldb:data/exercise1";
     private static final String M_CONN_STRING =
